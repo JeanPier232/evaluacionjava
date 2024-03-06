@@ -12,8 +12,8 @@ Logs para la auditoria de información
 Pruebas unitarias con Mockito
 
 Tecnologías utilizadas:
-Java
-Spring Boot
+Java 17
+Spring Boot 3
 Hibernate
 H2 Database (para desarrollo)
 RESTful API
