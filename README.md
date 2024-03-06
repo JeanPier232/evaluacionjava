@@ -26,7 +26,7 @@ JUnit - Framework de pruebas unitarias para Java.
 Mockito - Biblioteca de mocking para Java
 
 Configuración y ejecución
-Clona el repositorio a tu máquina local con siguiente comando: git clone https://github.com/tu-usuario/aplicacion-gestion-usuarios.git
+Clona el repositorio a tu máquina local con siguiente comando: git clone https://github.com/JeanPier232/evaluacionjava.git
 Importa el proyecto en tu IDE favorito (NetBeans, Eclipse, IntelliJ IDEA, etc.).
 
 Ejecuta la aplicación como una aplicación Spring Boot.
