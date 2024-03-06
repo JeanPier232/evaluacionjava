@@ -1,9 +1,9 @@
-Aplicación registro de usuarios - Evaluación Java
+Aplicación registro de usuarios - Evaluación Java:
 
 Aplicación de registro de usuarios desarrollado en Java utilizando Spring Boot y Hibernate. 
 La aplicación permite registrar nuevos usuarios, listar todos los usuarios registrados.
 
-Funcionalidades
+Funcionalidades:
 Registro de nuevos usuarios con nombre.
 Asociación de teléfonos a los usuarios registrados.
 Listado de todos los usuarios registrados, incluyendo sus teléfonos asociados.
@@ -11,7 +11,7 @@ Gestión de errores y excepciones para una experiencia de usuario más robusta.
 Logs para la auditoria de información
 Pruebas unitarias con Mockito
 
-Tecnologías utilizadas
+Tecnologías utilizadas:
 Java
 Spring Boot
 Hibernate
@@ -20,21 +20,21 @@ RESTful API
 JUnit
 Mockito
 
-Pruebas Unitarias
+Pruebas Unitarias:
 Se realizaron pruebas unitarias utilizando las siguientes herramientas
 JUnit - Framework de pruebas unitarias para Java.
 Mockito - Biblioteca de mocking para Java
 
-Configuración y ejecución
+Configuración y ejecución:
 Clona el repositorio a tu máquina local con siguiente comando: git clone https://github.com/JeanPier232/evaluacionjava.git
 Importa el proyecto en tu IDE favorito (NetBeans, Eclipse, IntelliJ IDEA, etc.).
 
 Ejecuta la aplicación como una aplicación Spring Boot.
 
-Accede a la API utilizando herramientas como Postman, o integra la API en tu aplicación.
+Accede a la API utilizando herramientas como Postman.
 
-Endpoints de la API
-Registro de usuario
+Endpoints de la API:
+Registro de usuario:
 POST /api/users/register-user
 Permite registrar un nuevo usuario. Se debe enviar un JSON con la siguiente estructura
 {
@@ -50,6 +50,6 @@ Permite registrar un nuevo usuario. Se debe enviar un JSON con la siguiente estr
     ]
 }
 
-Listado de usuarios
+Listado de usuarios:
 GET /api/users/list-users
 Devuelve un listado de todos los usuarios registrados, incluyendo sus teléfonos asociados.
