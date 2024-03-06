@@ -13,6 +13,7 @@ Pruebas unitarias con Mockito
 
 Tecnologías utilizadas:
 Java 17
+Maven
 Spring Boot 3
 Hibernate
 H2 Database (para desarrollo)
